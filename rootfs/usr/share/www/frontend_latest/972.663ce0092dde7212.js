@@ -1,0 +1,2 @@
+export const __webpack_id__="972";export const __webpack_ids__=["972"];export const __webpack_modules__={7615:function(e,t,_){_.r(t);var n=_(9033);const o=document.createElement("style");o.textContent=n.Q,document.head.append(o)}};
+//# sourceMappingURL=972.663ce0092dde7212.js.map
